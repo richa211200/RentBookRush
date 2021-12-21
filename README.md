@@ -1,6 +1,6 @@
 # Group - 16
 
-#Project Name : RentBookRush
+Project Name : RentBookRush
 
 A Online Book Rental Project targeted mainly for Book Venodrs and Book Renters .
 
