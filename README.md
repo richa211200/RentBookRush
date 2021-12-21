@@ -5,7 +5,7 @@ Course : Software Project Management
 
    A Online Book Rental Project targeted mainly for Book Venodrs and Book Renters .
 
-# Documents links:<br>
+# Document links:<br>
 
 ## [PPT Link](https://docs.google.com/presentation/d/1DZiIce-JStpEXkt2qh6UeqGz9F6z0iVckUIGYQdgFlU/edit?usp=sharing)
 
