@@ -22,7 +22,7 @@ Course : Software Project Management
 # Run this project:
 
 * Install Xampp (Downloaded from https://www.apachefriends.org/download.html)
-* Download the zip of this repository, unzip and place it in htdocs folder of xampp (in C drive)
+* Download the zip of this repository, unzip and place it in C:\xampp\htdocs
 * Go to your Xampp control panel and start apache and MySQL.
 * Go to localhost , CLick phpmyadmin OR go to localhost/phpmyadmin/ in your browser
 * To Import the database: Go to htdocs, find the file bookstore.sql <br>
