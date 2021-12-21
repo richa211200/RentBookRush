@@ -14,7 +14,7 @@ A Online Book Rental Project targeted mainly for Book Venodrs and Book Renters .
   - Visual Studio Code
   - Xampp
 
-##Run this project:
+#Run this project:
 
 * Install Xampp (Downloaded from https://www.apachefriends.org/download.html)
 * Download the zip of this repository, unzip and place it in htdocs folder of xampp (in C drive)
