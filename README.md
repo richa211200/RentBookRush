@@ -3,7 +3,7 @@
 Project Name : RentBookRush <br>
 Course : Software Project Management
 
-   A Online Book Rental Portal targeted mainly for Book Vendors and Book Renters .
+   A Online Book Rental Portal targeted mainly to Book Vendors and Book Renters .
 
 # Document links:<br>
 
