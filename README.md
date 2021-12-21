@@ -19,7 +19,7 @@ Course : Software Project Management
   - Visual Studio Code
   - Xampp
 
-# Run this project:
+# Run this project :
 
 * Install Xampp (Downloaded from https://www.apachefriends.org/download.html)
 * Download the zip of this repository, unzip and place it in C:\xampp\htdocs
